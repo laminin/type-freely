@@ -1,0 +1,12 @@
+@font-face {
+  font-family: TamilAishwarya;
+  src: url('tamil-aiswarya-normal.ttf');
+}
+
+body {
+  font-family: TamilAishwarya;
+}
+
+input[type=text] {
+  font-family: TamilAishwarya;
+}
